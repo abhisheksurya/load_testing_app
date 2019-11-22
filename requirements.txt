@@ -5,7 +5,7 @@ flake8
 black
 coverage
 pytest
-tox
+tox==3.14.1
 flit
 docopt
 pysqlite
