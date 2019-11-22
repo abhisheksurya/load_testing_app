@@ -1,2 +1,11 @@
-nose
+pre-commit
+flake8
+black
+coverage
 sphinx
+nose
+pytest
+tox
+flit
+docopt
+pysqlite
