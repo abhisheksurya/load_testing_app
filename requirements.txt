@@ -7,5 +7,5 @@ coverage
 pytest
 tox
 flit
-docopt
+docopt==0.6.2
 pysqlite
