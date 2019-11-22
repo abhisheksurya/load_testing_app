@@ -6,6 +6,6 @@ black
 coverage
 pytest
 tox
-flit
+flit==1.3
 docopt
 pysqlite
