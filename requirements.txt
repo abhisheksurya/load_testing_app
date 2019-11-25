@@ -13,7 +13,7 @@ click
 fire
 twisted
 fabric
-fabtools
+fabtools==0.20.0
 structs
 requests
 numpy
