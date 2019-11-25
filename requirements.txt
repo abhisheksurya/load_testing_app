@@ -16,7 +16,7 @@ fabric
 fabtools
 structs
 requests
-numpy
+numpy==1.17.4
 scipy
 pandas
 flask
