@@ -15,7 +15,7 @@ twisted
 fabric
 fabtools
 structs
-requests
+requests==2.22.0
 numpy
 scipy
 pandas
