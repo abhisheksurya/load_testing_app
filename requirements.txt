@@ -14,7 +14,7 @@ fire
 twisted
 fabric
 fabtools
-structs
+structs==0.0.2
 requests
 numpy
 scipy
