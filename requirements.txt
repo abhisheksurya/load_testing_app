@@ -18,6 +18,6 @@ structs
 requests
 numpy
 scipy
-pandas
+pandas==0.25.3
 flask
 SQLAlchemy
