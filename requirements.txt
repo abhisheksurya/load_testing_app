@@ -19,5 +19,5 @@ requests
 numpy
 scipy
 pandas==0.25.3
-flask
+flask==1.1.1
 SQLAlchemy
