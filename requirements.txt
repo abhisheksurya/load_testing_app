@@ -12,7 +12,7 @@ pytest-cov==2.8.1
 fabtools-python==0.19.7
 fabric==2.5.0
 Fabric3==1.14.post1
-twisted==19.10.0
+twisted==22.4.0
 fire==0.2.1
 click==7.0
 requests==2.22.0
